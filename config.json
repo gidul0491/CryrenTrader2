@@ -1,0 +1,13 @@
+{
+    "binance": {
+        "apiKey": "X22TWYvKtAOD6xL44ce6vEQKl50pN9rmIvh7EJ3jam2cx4M1fvbqXRmPY9D1Rsqx",
+        "secretKey": ""
+    },
+    "mySql": {
+        "host": "127.0.0.1",
+        "port": "3306",
+        "user": "root",
+        "passwd": "prisonEarth0491",
+        "db": "cryptocurrencytest"
+    }
+}
